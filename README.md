@@ -2,6 +2,8 @@
 
 _Created: 09-07-2026 · Last updated: 11-07-2026_
 
+**Status: name-reservation** (24-09-2026) — this repository reserves the name; no active content yet. See [consolidation study §4e](https://github.com/gasyoun/Uprava/blob/main/CONSOLIDATION_SPIKE_REPOLESS_DICTIONARIES_THIN_VIEW_REPOS_2026Q3.md).
+
 Digitization workspace for Hindi lexicography — the repository's GitHub
 description reads **«Оцифровка двухтомника»** ("Digitization of a two-volume
 set").
