@@ -31,7 +31,7 @@ format, and pipeline) will be filled in as the digitization work begins.
 Org-level conventions for this account's lexicography repositories — Markdown
 authoring rules, the `.ai_state.md` session-journal protocol, and Windows/
 encoding notes — are defined in the parent
-[`CLAUDE.md`](https://github.com/gasyoun/SanskritLexicography/blob/main/CLAUDE.md)
+[`CLAUDE.md`](https://github.com/gasyoun/SanskritLexicography/blob/master/CLAUDE.md)
 and are loaded automatically by tooling working across these repositories.
 
 When the first real content lands, replace the **Status** section above with a
